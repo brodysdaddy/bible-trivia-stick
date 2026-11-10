@@ -1,0 +1,36 @@
+# Build outputs (Windows / MSVC / MinGW)
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.idb
+
+# Build folders (generic, PlatformIO, Arduino)
+build/
+Build/
+out/
+bin/
+.pio/
+.arduino/
+
+# Local secrets (none today; reserved for future Wi-Fi/API settings)
+secrets.h
+**/secrets.h
+
+# Local Claude Code settings
+.claude/settings.local.json
+
+# Editors
+.vscode/
+.vs/
+.idea/
+*.swp
+*~
+
+# OS junk
+Thumbs.db
+desktop.ini
+.DS_Store
