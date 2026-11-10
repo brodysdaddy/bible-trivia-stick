@@ -141,6 +141,12 @@ The last number is the index of the correct choice. Since choices are shuffled a
 
 ---
 
+## How I built this
+
+I designed the game and its rules, and built it with Claude Code as a pair programmer. Claude helped with the parts that were new to me: sound effects, battery level display, and auto power-off. I reviewed and tested each feature on the device.
+
+---
+
 ## Future ideas
 
 - **Voice answers:** say "A" or the answer text aloud, using the M5StickS3's built-in microphone or speech recognition on the PC version.
