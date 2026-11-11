@@ -7,6 +7,8 @@ A Bible trivia game written in C++ that runs in two places from one shared codeb
 
 Each test draws **5 random multiple-choice questions** from a pool of **500** (250 Old Testament, 250 New Testament). Answer choices are shuffled every time, the score stays hidden until the end, and then each answer is revealed one by one with a sound before the final score and a fanfare. Afterwards you can retake the same test, start a new one, or quit.
 
+> **Looking for the full stick firmware?** [bible-games-stick](https://github.com/brodysdaddy/bible-games-stick) puts this trivia game and [Tower of Babel](https://github.com/brodysdaddy/tower-of-babel-windows), a stacking game, on the M5StickS3 together, with a themed game selector. This repo's `stick/` folder is the trivia-only version.
+
 ---
 
 ## Architecture
